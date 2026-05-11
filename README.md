@@ -6,7 +6,7 @@ Reporte interactivo desarrollado en Power BI Desktop sobre la base de datos de m
 
 ## 🔗 Ver reporte
 
-> 📎 `LINK` [https://ucol365-my.sharepoint.com/:u:/g/personal/ibravo2_ucol_mx/IQA6PuiYfMjjTIMtcXDah7AEATWX6Z1aFiN6x2VTp1VBFJs?e=emI7WV]
+> 📎 [LINK](https://ucol365-my.sharepoint.com/:u:/g/personal/ibravo2_ucol_mx/IQA6PuiYfMjjTIMtcXDah7AEATWX6Z1aFiN6x2VTp1VBFJs?e=emI7WV)
 
 ---
 
